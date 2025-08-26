@@ -10,6 +10,11 @@
 
 // "use strict" prevent errors
 
-var x = "mithra";
-var x = "muff";
+// var x = "mithra";
+// var x = "muff";
+// console.log(x);
+
+var x = "ammu";
+var y = "achu";
+x = y;
 console.log(x);
